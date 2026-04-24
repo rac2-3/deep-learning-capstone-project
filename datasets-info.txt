@@ -1,1 +1,16 @@
+Dataset Details and Links
 
+Experiment 1:
+Dataset Name: Adult Income Dataset
+Source: UCI Machine Learning Repository
+Link: https://archive.ics.uci.edu/ml/datasets/adult
+
+Experiment 2:
+Dataset Name: Fashion-MNIST Dataset
+Source: Zalando Research / TensorFlow Keras Datasets
+Link: https://github.com/zalandoresearch/fashion-mnist
+
+Experiment 3:
+Dataset Name: Airline Passengers Dataset
+Source: Time Series Dataset
+Link: https://raw.githubusercontent.com/jbrownlee/Datasets/master/airline-passengers.csv
