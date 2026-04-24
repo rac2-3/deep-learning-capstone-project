@@ -1,10 +1,15 @@
 Deep Learning Capstone Project
+
 Course: Deep Learning Architectures and Techniques
+
 Course Code: ETMMDL274
 
 Student Name: Raj Tilak Singh
+
 Roll Number: 2501940048
+
 Program: MCA (AI & ML)
+
 University: K.R. Mangalam University
 
 Project Description:
